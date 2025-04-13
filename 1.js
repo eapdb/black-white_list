@@ -1,1 +1,1 @@
-document.write('prompt(1)');
+<svg><script>prompt&#40;1)</script>
