@@ -1,1 +1,1 @@
-<script>prompt(1);</script>
+document.write('prompt(1)');
